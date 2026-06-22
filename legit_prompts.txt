@@ -1,0 +1,107 @@
+Was ist das?
+Manipulation des Binaries Mittel (geplant) ECDSA-Signaturprüfung im OTA-Updater (Phase 1)
+Man-in-the-Middle WebSocket Gering ✓ WSS (TLS 1.3), Zertifikatpinning geplant
+SD-Karte entnehmen und auslesen Mittel (optional) LUKS + Tang/Clevis (Phase 1 empfohlen)
+
+Wie
+Vor Kopieren der SD-Karte schützen (Kopierschutz)
+Aber SD-Karte in neuen Raspberry PI erlauben falls RPi kaputt geht
+
+Detaillierte Autoscoring-Doku
+- Autokameradetection
+- Kallibrierung der 3 Kameras
+- Dart detection
+- Bouncer detection
+- Hand detection
+- State-Machine
+- AI Hybrid
+- First Startup / Initialisierung
+
+Wenn die Applikation gestartet ist, geht die CPU-Leistung enorm hoch. Der Lüfter läuft nach kurzer Zeit auf max.
+Es werden aber noch keine Darts geworfen. Die Applikation ist also im "Leerlauf"
+Wie können wir die Resourcennutzung optimieren? Speziell die CPU-Auslastung?
+
+
+Erstelle eine Dokumentation (neue adoc) für das Spiele-Broadcast-System. Beschreibung der Komponenten und Prozess. Die Bezeihungen zwischen den Services und die technische Umsetzung von Spielerzeugung bis zum Spielende. Event-driven Statemachine für die Spieldurchführung. 
+
+
+
+Die /live Page soll eine Übersicht über alle öffentlichen Spiele (Event ist öffentlich) enthalten die aktuell gespielt werden.
+Es sollen die aktuellen Ergebnisse dieser Spiele in einer Kompakten Form dargestellt werden. Ein Klick auf ein Spiel navigiert zu der Detail Page des Spiels (/live/{id})
+Spielerinformation, Scores, Leg, Set, Zwischenstand, Spielmodus
+Die Spiele sollen gruppiert nach dem Event dargsestellt werden
+Es soll Möglich sein geeignet zu filtern
+
+
+
+In einem Event muss konfiguriert werden können ob es einen Schreiber für ein Spiel gibt und wie die Regel für die Besetzung des Schreibers ist.
+Die erste Runde muss immer zufällig bestimmt werden.
+Mache Vorschläge für verschiedene sinnvolle Regeln für die Besetzung des Schreibers.
+Es muss auch Möglich sein ohne Schreiber zu spielen, dann geben die Spieler ihre Scores selber ein
+Schreiber werden nicht für offline Spiele in legit-play benötigt
+Schreiber muss auch in der /live Page erkennbar sein
+Schreiber muss auch in der Spieleübersicht am Tablet sichtbar sein
+
+Für ein x01 Spiel muss eine Obergrenze an Darts definiert werden können. Wenn beide Spieler dieses Limit erreicht haben entscheidet ein Wurf auf Bull. Wer näher am Bull ist gewinnt das Leg / Set / Match.
+
+
+Scoring Events Hardening Error Handling und Performance Tuning
+GameConfigurationController
+AsyncConfiguration
+Events erst persistieren und dann weiterarbeiten
+Rollback on error
+
+
+legit-play:
+Einzeleingabe funktioniert Online nicht mehr -> 302 bei online -> Gateway checken
+Die Spielergebnisse kommen bei Online-Spielen durcheinander, wenn ich die Scores für ein Spiel eingebe das Spiel verlasse und in ein nächstes Spiel wechsel habe ich dort die Scores vom letzten Spiel aber auf die Spieler des neuen Spiels
+
+
+react events manage
+bei 0:0 gibt es keinen führenden gelber Name ist falsch
+
+
+legit-play Bugs / Anpassungen
+Onlinekorrektur geht nicht
+Einem Board können mehrere Spiele zugewiesen werden
+Auswahl des Spiels ermöglichen
+
+* legit-play: Bei Online spielen können die Aufnahmen noch nicht korrigiert werden. Soll sich genauso wie bei Offline-Spielen verhalten
+* legit-play: Wenn einem Board ein Spiel zugewiesen wurde, kann man nicht zurück in das Event dieses Spiels navigieren
+* legit-play: Wenn ein zugeordnetes Online-Spiel gestartet wird verändert sich der Status nicht zu "Live"
+* legit-play: Startspieler wechseln funktioniert bei Online Spielen nicht
+
+
+
+Kiosk Verlauf
+* aktiver Spieler (wird eingegeben beim QR-Code Scan und Bezahlvorgang)
+* Gebuchte Zeit / Spiele
+* Verbleibende Zeit / Spiele
+* Gespielte Spiele (Auflistung der Spielnamen, Zeitstempel Start und Ende, Sieger, Button um Statistiken anzuzeigen (Erstmal nur leeres Popup))
+* Zeit / Spiele nachbuchen
+* Session beenden
+
+
+
+- Double Out Regel funktioniert nicht. 1 Rest ist möglich 41 Rest Finisch mit einem Dart möglich. Das ist falsch
+
+
+- Über QR Code registrierte Benutzer können nicht in legit-play bearbeitet werden. Änderungen kommen immer von extern in die App
+
+Task Marketing Emails: Unsubscribe-Link
+    - Jede Marketing-E-Mail enthält HMAC-signierten Unsubscribe-Link
+    - GET /unsubscribe?token={token} → setzt MARKETING_EMAIL-Consent auf false (via User-Service)
+
+
+Adjust Spring Security for services
+Ein base image für alle services -> maximal secured
+
+"vite-plugin-compression2": "^1.4.0", TODO @Kalk productive
+
+Refactor pom configurations
+Refactor Gateway
+Review APIs
+Review Module by Module	
+
+
+docker compose -f docker-compose.e2e.yml --env-file .env.e2e up -d --remove-orphans

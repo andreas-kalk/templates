@@ -1,0 +1,189 @@
+= Abnahmeprotokoll
+:icons: font
+
+== Projektinformationen
+
+[cols="1,2"]
+|===
+|Projekt |[PROJEKTNAME]
+|Kunde |[FIRMENNAME]
+|Auftragnehmer |[IHR NAME]
+|Abnahmedatum |{docdate}
+|Abnahmegegenstand |[BESCHREIBUNG DER DELIVERABLES]
+|Vertragsgrundlage |Vertrag vom [DATUM]
+|===
+
+== Abnahmetermin
+
+**Datum:** [DATUM]
+**Uhrzeit:** [ZEIT]
+**Ort/Meeting:** [ORT ODER VIDEOKONFERENZ-LINK]
+
+**Teilnehmer:**
+
+*Kunde:*
+* [NAME], [POSITION] - [EMAIL]
+* [NAME], [POSITION] - [EMAIL]
+
+*Auftragnehmer:*
+* [IHR NAME], Freelancer - [EMAIL]
+
+== Gegenstand der Abnahme
+
+=== Deliverables
+
+[cols="1,3,1"]
+|===
+|Nr. |Beschreibung |Status
+
+|1
+|[DELIVERABLE 1 - z.B. Frontend-Anwendung]
+|✅ Abgenommen
+
+|2
+|[DELIVERABLE 2 - z.B. Backend-API]
+|✅ Abgenommen
+
+|3
+|[DELIVERABLE 3 - z.B. Dokumentation]
+|✅ Abgenommen
+
+|4
+|[DELIVERABLE 4 - z.B. Deployment-Scripts]
+|🔄 Mit Nachbesserung
+
+|===
+
+=== Funktionale Anforderungen
+
+[cols="1,3,1,2"]
+|===
+|Nr. |Anforderung |Status |Bemerkung
+
+|FR-01
+|[FUNKTIONALE ANFORDERUNG 1]
+|✅ Erfüllt
+|
+
+|FR-02
+|[FUNKTIONALE ANFORDERUNG 2]
+|✅ Erfüllt
+|
+
+|FR-03
+|[FUNKTIONALE ANFORDERUNG 3]
+|⚠️ Teilweise
+|[BEMERKUNG ZU NACHBESSERUNG]
+
+|===
+
+== Technische Prüfung
+
+=== System-Requirements
+* **Performance:** ✅ Erfüllt (Response Zeit < 2s)
+* **Sicherheit:** ✅ Security-Audit bestanden
+* **Kompatibilität:** ✅ Browser-Tests erfolgreich
+* **Skalierbarkeit:** ✅ Load-Tests bestanden
+* **Backup/Recovery:** ✅ Funktionsfähig
+
+=== Code Quality
+* **Dokumentation:** ✅ Vollständig
+* **Test Coverage:** ✅ > 80%
+* **Code Review:** ✅ Durchgeführt
+* **Standards:** ✅ Coding Guidelines eingehalten
+
+== Gefundene Mängel
+
+=== Kategorie A - Kritische Mängel (Blockieren Abnahme)
+[WENN KEINE VORHANDEN: "Keine kritischen Mängel gefunden."]
+
+=== Kategorie B - Schwere Mängel (Nachbesserung erforderlich)
+* **Mangel B-01:** [BESCHREIBUNG]
+  - **Auswirkung:** [BESCHREIBUNG DER AUSWIRKUNG]
+  - **Behebung bis:** [DATUM]
+
+=== Kategorie C - Kleinere Mängel (Nice-to-have)
+* **Mangel C-01:** [BESCHREIBUNG]
+  - **Auswirkung:** [BESCHREIBUNG DER AUSWIRKUNG]
+  - **Behebung:** Optional
+
+== Abnahmeentscheidung
+
+### ✅ Vollständige Abnahme
+☑️ Alle Anforderungen sind erfüllt
+☑️ Keine kritischen Mängel vorhanden
+☑️ System ist produktionsreif
+
+### 🔄 Abnahme mit Nachbesserung
+☐ Abnahme erfolgt unter Vorbehalt der Behebung der Kategorie B Mängel
+☐ Nachbesserung bis: [DATUM]
+☐ Erneute Prüfung am: [DATUM]
+
+### ❌ Abnahme verweigert
+☐ Kritische Mängel müssen behoben werden
+☐ Erneute Abnahme am: [DATUM]
+
+== Übergabe
+
+=== Dokumentation
+* ✅ Benutzerhandbuch
+* ✅ Technische Dokumentation
+* ✅ API-Dokumentation
+* ✅ Deployment-Guide
+* ✅ Wartungsanleitung
+
+=== Zugangsdaten
+* ✅ Admin-Credentials übergeben
+* ✅ Repository-Zugang transferiert
+* ✅ Cloud-Accounts übertragen
+* ✅ Domain/SSL-Zertifikate übertragen
+
+=== Training/Knowledge Transfer
+* ✅ Schulung durchgeführt am [DATUM]
+* ✅ Q&A Session abgehalten
+* ✅ Support-Kontakt etabliert
+
+== Support und Gewährleistung
+
+=== Gewährleistung
+* **Dauer:** [X] Monate ab Abnahme
+* **Umfang:** Behebung von Fehlern und Mängeln
+* **Ausschluss:** Neue Features und Änderungen
+
+=== Post-Launch Support
+* **Verfügbarkeit:** [ZEITEN UND ERREICHBARKEIT]
+* **Response Zeit:** [X] Stunden für kritische Issues
+* **Kontakt:** [EMAIL/TELEFON/SLACK]
+
+== Zusätzliche Vereinbarungen
+
+* [ZUSÄTZLICHE VEREINBARUNG 1]
+* [ZUSÄTZLICHE VEREINBARUNG 2]
+
+== Bestätigung der Abnahme
+
+Hiermit bestätigen beide Parteien die ordnungsgemäße Abnahme der vereinbarten Leistungen entsprechend dem oben aufgeführten Status.
+
+=== Zahlungsfreigabe
+Mit der Abnahme wird die Zahlung der **Schlussrechnung** in Höhe von **[BETRAG] Euro** fällig.
+
+**Rechnungsstellung erfolgt bis:** [DATUM]
+
+---
+
+**Ort, Datum:** _________________
+
+**Kunde:**
+_________________________________
+[NAME, POSITION]
+
+**Auftragnehmer:**
+_________________________________
+[IHR NAME]
+
+[NOTE]
+====
+**Rechtliche Bedeutung:** Mit der Unterzeichnung dieses Abnahmeprotokolls gilt die vertragliche Leistung als erbracht. Die Gewährleistungsfrist beginnt zu laufen.
+
+**Aufbewahrung:** Dieses Dokument sollte von beiden Parteien für die Dauer der Gewährleistung plus Verjährungsfrist aufbewahrt werden.
+====

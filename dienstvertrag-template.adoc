@@ -1,0 +1,148 @@
+= Freelancer-Dienstvertrag
+:toc: left
+:icons: font
+
+== Vertragsparteien
+
+**Auftraggeber:**
+[FIRMENNAME]
+[ADRESSE]
+[GESCHÄFTSFÜHRER/ANSPRECHPARTNER]
+
+**Auftragnehmer (Freelancer):**
+[IHR NAME]
+[IHRE ADRESSE]
+[TELEFON]
+[EMAIL]
+Steuer-Nr.: [STEUERNUMMER]
+
+== § 1 Vertragsgegenstand
+
+Der Auftragnehmer verpflichtet sich zur Erbringung von IT-Dienstleistungen für das Projekt "[PROJEKTNAME]" gemäß der als Anlage beigefügten Leistungsbeschreibung.
+
+**Art der Tätigkeit:**
+[DETAILLIERTE BESCHREIBUNG DER AUFGABEN UND ZIELE]
+
+== § 2 Leistungsumfang
+
+Die zu erbringenden Leistungen umfassen:
+
+* [SPEZIFISCHE AUFGABE 1]
+* [SPEZIFISCHE AUFGABE 2]
+* [SPEZIFISCHE AUFGABE 3]
+
+**Nicht im Leistungsumfang enthalten:**
+* [AUSGESCHLOSSENE LEISTUNGEN]
+
+== § 3 Vergütung
+
+=== 3.1 Stundensatz
+Der Stundensatz beträgt **[BETRAG] Euro** zzgl. der gesetzlichen Mehrwertsteuer.
+
+=== 3.2 Abrechnung
+* Abrechnung erfolgt nach tatsächlich geleisteten Stunden
+* Monatliche Rechnungsstellung zum Monatsende
+* Nachweis durch detaillierte Stundenaufzeichnungen
+
+=== 3.3 Zahlungsbedingungen
+* Zahlungsziel: 14 Tage netto
+* Zahlungsart: Überweisung
+* Bei Verzug werden Verzugszinsen in Höhe von 9% über dem Basiszinssatz berechnet
+
+== § 4 Projektlaufzeit
+
+=== 4.1 Vertragsdauer
+* Projektstart: [STARTDATUM]
+* Geschätzte Projektdauer: [X] Monate
+* Vertragsende: [ENDDATUM] oder bei Projektabschluss
+
+=== 4.2 Arbeitszeit
+* Geschätzter Zeitaufwand: [X] Stunden pro Woche
+* Flexible Arbeitszeiten im Rahmen der Projektanforderungen
+* Kernarbeitszeiten für Abstimmungen: [Z.B. 10-16 Uhr]
+
+== § 5 Arbeitsort und -weise
+
+* Arbeitsort: [Remote/Vor Ort/Hybrid]
+* Bei Remote-Arbeit: Bereitstellung der notwendigen technischen Ausstattung durch Auftragnehmer
+* Regelmäßige Abstimmungstermine: [FREQUENZ UND FORMAT]
+
+== § 6 Selbständigkeit
+
+=== 6.1 Status
+Der Auftragnehmer ist selbständig tätig und weisungsunabhängig bezüglich der Art der Ausführung der Arbeiten.
+
+=== 6.2 Scheinselbständigkeit
+Beide Parteien bestätigen, dass es sich um eine echte freiberufliche Tätigkeit handelt. Der Auftragnehmer:
+* Ist frei in der Zeiteinteilung
+* Kann Ersatzkräfte stellen
+* Trägt das unternehmerische Risiko
+* Arbeitet mit eigenen Arbeitsmitteln
+
+== § 7 Geheimhaltung und Datenschutz
+
+=== 7.1 Vertraulichkeit
+Der Auftragnehmer verpflichtet sich zur strikten Vertraulichkeit über alle Geschäfts- und Betriebsgeheimnisse des Auftraggebers.
+
+=== 7.2 Datenschutz
+Bei Verarbeitung personenbezogener Daten wird eine separate Auftragsverarbeitungsvereinbarung (AVV) gemäß DSGVO geschlossen.
+
+=== 7.3 Dauer
+Die Geheimhaltungspflicht besteht auch nach Vertragsende fort.
+
+== § 8 Gewährleistung und Haftung
+
+=== 8.1 Gewährleistung
+Der Auftragnehmer gewährleistet die ordnungsgemäße und professionelle Erbringung der vereinbarten Leistungen.
+
+=== 8.2 Haftungsbeschränkung
+Die Haftung des Auftragnehmers ist auf Vorsatz und grobe Fahrlässigkeit beschränkt und beträgt maximal die Höhe der Vertragssumme.
+
+=== 8.3 Versicherung
+Der Auftragnehmer verfügt über eine Berufshaftpflichtversicherung mit einer Deckungssumme von mindestens [BETRAG] Euro.
+
+== § 9 Urheberrecht und Nutzungsrechte
+
+=== 9.1 Übertragung
+Der Auftraggeber erhält mit vollständiger Bezahlung die ausschließlichen Nutzungsrechte an den erstellten Werken.
+
+=== 9.2 Vorbestehende Rechte
+Bereits bestehende Rechte des Auftragnehmers (z.B. Framework, Libraries) bleiben unberührt.
+
+== § 10 Kündigung
+
+=== 10.1 Ordentliche Kündigung
+Beide Parteien können den Vertrag mit einer Frist von [X] Wochen zum Monatsende kündigen.
+
+=== 10.2 Außerordentliche Kündigung
+Bei wichtigem Grund kann der Vertrag fristlos gekündigt werden.
+
+=== 10.3 Abwicklung
+Bei Kündigung werden alle bis dahin erbrachten Leistungen vergütet.
+
+== § 11 Schlussbestimmungen
+
+=== 11.1 Änderungen
+Änderungen des Vertrags bedürfen der Schriftform.
+
+=== 11.2 Salvatorische Klausel
+Sollten einzelne Bestimmungen unwirksam sein, bleibt der übrige Vertrag wirksam.
+
+=== 11.3 Gerichtsstand
+Gerichtsstand ist [ORT].
+
+=== 11.4 Anwendbares Recht
+Es gilt deutsches Recht.
+
+---
+
+**Ort, Datum:** _________________
+
+**Auftraggeber:** _________________
+
+**Auftragnehmer:** _________________
+
+[NOTE]
+====
+**Wichtiger Hinweis:** Dieser Vertrag ist eine Vorlage und ersetzt keine Rechtsberatung. Lassen Sie Verträge vor Verwendung von einem Anwalt prüfen.
+====

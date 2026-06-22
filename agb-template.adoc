@@ -1,0 +1,162 @@
+= Allgemeine Geschäftsbedingungen (AGB)
+:toc: left
+:icons: font
+
+**für IT-Freelancer-Dienstleistungen**
+
+---
+
+[IHR NAME]
+[IHRE ADRESSE]
+[PLZ ORT]
+[TELEFON]
+[EMAIL]
+[WEBSITE]
+
+Steuer-Nr.: [STEUERNUMMER]
+USt-IdNr.: [WENN VORHANDEN]
+
+== § 1 Geltungsbereich
+
+=== 1.1 Anwendungsbereich
+Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Verträge über IT-Dienstleistungen zwischen [IHR NAME] (nachfolgend "Auftragnehmer") und dem Auftraggeber.
+
+=== 1.2 Vorrang
+Abweichende, entgegenstehende oder ergänzende AGB des Auftraggebers werden nur wirksam, wenn sie ausdrücklich schriftlich anerkannt werden.
+
+=== 1.3 Vertragsschluss
+Angebote sind freibleibend. Der Vertrag kommt durch schriftliche Auftragsbestätigung oder Beginn der Leistungserbringung zustande.
+
+== § 2 Leistungsumfang
+
+=== 2.1 Leistungsbeschreibung
+Der Umfang der zu erbringenden Leistungen ergibt sich aus der Leistungsbeschreibung im jeweiligen Vertrag oder Angebot.
+
+=== 2.2 Änderungen
+Änderungen des Leistungsumfangs bedürfen der schriftlichen Vereinbarung. Mehraufwand wird nach Aufwand berechnet.
+
+=== 2.3 Mitwirkungspflichten
+Der Auftraggeber stellt erforderliche Informationen, Daten und Zugänge zeitgerecht zur Verfügung.
+
+== § 3 Vergütung und Zahlungsbedingungen
+
+=== 3.1 Preise
+Es gelten die im Angebot oder Vertrag vereinbarten Preise zuzüglich der gesetzlichen Mehrwertsteuer.
+
+=== 3.2 Zahlungsbedingungen
+* Rechnungen sind innerhalb von 14 Tagen ohne Abzug zu bezahlen
+* Bei Projekten über 10.000 € kann eine Anzahlung von 50% verlangt werden
+* Bei Zahlungsverzug werden Verzugszinsen von 9% über dem Basiszinssatz berechnet
+
+=== 3.3 Aufrechnung
+Aufrechnung ist nur mit unbestrittenen oder rechtskräftig festgestellten Forderungen zulässig.
+
+== § 4 Ausführung der Leistungen
+
+=== 4.1 Selbständigkeit
+Der Auftragnehmer erbringt die Leistungen als selbständiger Unternehmer. Es besteht keine Weisungsunterworfenheit bezüglich der Art der Ausführung.
+
+=== 4.2 Arbeitszeit und -ort
+* Arbeitszeiten werden flexibel nach den Projektanforderungen gestaltet
+* Arbeitsort ist grundsätzlich das Home Office des Auftragnehmers
+* Vor-Ort-Termine nach Vereinbarung
+
+=== 4.3 Ersatzkräfte
+Der Auftragnehmer kann qualifizierte Ersatzkräfte einsetzen, die den gleichen Qualitätsstandards unterliegen.
+
+== § 5 Geheimhaltung und Datenschutz
+
+=== 5.1 Vertraulichkeit
+Der Auftragnehmer verpflichtet sich zur Geheimhaltung aller vertraulichen Informationen des Auftraggebers.
+
+=== 5.2 Datenschutz
+Bei der Verarbeitung personenbezogener Daten werden die Bestimmungen der DSGVO eingehalten. Bei Bedarf wird eine separate Auftragsverarbeitungsvereinbarung geschlossen.
+
+=== 5.3 Dauer
+Die Geheimhaltungspflicht besteht auch nach Vertragsende fort.
+
+== § 6 Urheberrecht und Nutzungsrechte
+
+=== 6.1 Übertragung der Nutzungsrechte
+Mit vollständiger Bezahlung der Vergütung gehen alle Nutzungsrechte an den im Rahmen des Auftrags erstellten Werken auf den Auftraggeber über.
+
+=== 6.2 Vorbestehende Rechte
+Bereits bestehende Rechte des Auftragnehmers (Frameworks, Libraries, Tools) bleiben unberührt.
+
+=== 6.3 Open Source
+Die Verwendung von Open-Source-Komponenten wird transparent kommuniziert. Entsprechende Lizenzbedingungen sind zu beachten.
+
+== § 7 Gewährleistung
+
+=== 7.1 Gewährleistungsfrist
+Die Gewährleistungsfrist beträgt 12 Monate ab Abnahme bzw. bei fehlendem Abnahmeverfahren ab Lieferung.
+
+=== 7.2 Mängelansprüche
+Bei Mängeln hat der Auftraggeber zunächst Anspruch auf Nachbesserung. Schlägt diese fehl, stehen die gesetzlichen Rechte zu.
+
+=== 7.3 Ausschluss
+Die Gewährleistung entfällt bei:
+* Unsachgemäßer Verwendung
+* Eigenmächtigen Änderungen durch den Auftraggeber
+* Normaler Abnutzung
+
+== § 8 Haftung
+
+=== 8.1 Haftungsbeschränkung
+Die Haftung ist auf Vorsatz und grobe Fahrlässigkeit beschränkt und beträgt maximal die Vertragssumme.
+
+=== 8.2 Datenverlust
+Für Datenverlust haftet der Auftragnehmer nur, wenn der Auftraggeber ordnungsgemäße Datensicherung durchgeführt hat.
+
+=== 8.3 Versicherung
+Der Auftragnehmer verfügt über eine Berufshaftpflichtversicherung.
+
+== § 9 Kündigung
+
+=== 9.1 Ordentliche Kündigung
+Beide Parteien können mit einer Frist von 4 Wochen zum Monatsende kündigen.
+
+=== 9.2 Außerordentliche Kündigung
+Bei wichtigem Grund kann fristlos gekündigt werden, insbesondere bei:
+* Zahlungsverzug über 30 Tage
+* Schwerwiegenden Vertragsverletzungen
+* Insolvenz einer Partei
+
+=== 9.3 Vergütung
+Bereits erbrachte Leistungen werden bei Kündigung vergütet.
+
+== § 10 Höhere Gewalt
+
+Bei höherer Gewalt (Naturkatastrophen, Pandemien, Streiks, etc.) ruhen die Vertragspflichten für die Dauer der Behinderung.
+
+== § 11 Salvatorische Klausel
+
+Sollten einzelne Bestimmungen unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
+
+== § 12 Anwendbares Recht und Gerichtsstand
+
+=== 12.1 Recht
+Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts.
+
+=== 12.2 Gerichtsstand
+Ausschließlicher Gerichtsstand ist [IHR WOHNORT/GESCHÄFTSSITZ].
+
+=== 12.3 Verbraucherschutz
+Ist der Auftraggeber Verbraucher, gelten die zwingenden verbraucherschutzrechtlichen Bestimmungen.
+
+---
+
+**Stand:** [DATUM]
+
+[IMPORTANT]
+====
+**Rechtlicher Hinweis:**
+
+Diese AGB sind eine Vorlage und ersetzen keine individuelle Rechtsberatung. Lassen Sie AGB vor Verwendung von einem Anwalt prüfen und an Ihre spezifischen Bedürfnisse anpassen.
+
+**Besonders zu beachten:**
+* Unwirksamkeitsrisiken bei zu einseitigen Klauseln
+* Transparenzgebot bei Verbrauchern
+* Branchenspezifische Besonderheiten
+* Internationale Verträge
+====

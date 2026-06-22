@@ -1,0 +1,122 @@
+= Angebot für [PROJEKTNAME]
+:toc: left
+:icons: font
+:docdate: {docdate}
+
+== Angebotsdetails
+
+[cols="1,2"]
+|===
+|Angebots-Nr. |ANR-{docdate}-001
+|Datum |{docdate}
+|Gültig bis |[DATUM + 30 TAGE]
+|Kunde |[FIRMENNAME]
+|Ansprechpartner |[NAME, POSITION]
+|Projekt |[PROJEKTNAME]
+|===
+
+== Projektbeschreibung
+
+[KURZE BESCHREIBUNG DES PROJEKTS UND DER ZIELE]
+
+== Leistungsumfang
+
+=== Phase 1: [PHASE NAME]
+* [DETAILLIERTE BESCHREIBUNG DER AUFGABEN]
+* [DELIVERABLES]
+* [ZEITRAHMEN]
+
+=== Phase 2: [PHASE NAME]
+* [DETAILLIERTE BESCHREIBUNG DER AUFGABEN]
+* [DELIVERABLES]
+* [ZEITRAHMEN]
+
+== Technische Anforderungen
+
+=== Technologie-Stack
+* Frontend: [z.B. React, Vue.js, Angular]
+* Backend: [z.B. Node.js, Python, Java]
+* Datenbank: [z.B. PostgreSQL, MongoDB]
+* Cloud/Hosting: [z.B. AWS, Azure, Heroku]
+
+=== Nicht im Scope enthalten
+* [EXPLIZIT AUSGESCHLOSSENE LEISTUNGEN]
+* [ZUSÄTZLICHE KOSTEN FÜR THIRD-PARTY SERVICES]
+
+== Kostenaufstellung
+
+[cols="2,1,1,1"]
+|===
+|Leistung |Aufwand (Std.) |Stundensatz |Summe
+
+|[PHASE 1 BESCHREIBUNG]
+|[STUNDEN]
+|[€/h]
+|[BETRAG] €
+
+|[PHASE 2 BESCHREIBUNG]
+|[STUNDEN]
+|[€/h]
+|[BETRAG] €
+
+|**Gesamtsumme netto**
+|**[GESAMT STUNDEN]**
+|
+|**[GESAMTBETRAG] €**
+
+|**MwSt. (19%)**
+|
+|
+|**[MWST BETRAG] €**
+
+|**Gesamtsumme brutto**
+|
+|
+|**[BRUTTO BETRAG] €**
+|===
+
+== Zahlungskonditionen
+
+* Zahlungsziel: 14 Tage netto
+* Bei Projekten > 10.000 €: 50% Anzahlung bei Projektstart
+* Restbetrag bei Projektabschluss
+* Zahlungsart: Überweisung auf Geschäftskonto
+
+== Projektablauf
+
+=== Kommunikation
+* Wöchentliche Status-Calls
+* Projekt-Chat über [SLACK/TEAMS/EMAIL]
+* Dokumentation in [TOOL]
+
+=== Meilensteine
+* Meilenstein 1: [DATUM] - [BESCHREIBUNG]
+* Meilenstein 2: [DATUM] - [BESCHREIBUNG]
+* Finale Abnahme: [DATUM]
+
+== Rahmenbedingungen
+
+* Angebot gültig bis [DATUM]
+* Projektstart: [DATUM]
+* Geschätzte Projektdauer: [X] Wochen
+* Arbeitszeiten: [Mo-Fr, 9-17 Uhr]
+* Arbeitsort: [Remote/Vor Ort/Hybrid]
+
+== Nächste Schritte
+
+1. Angebot prüfen und Rückfragen klären
+2. Bei Zusage: Vertrag erstellen und unterzeichnen
+3. Kick-off Meeting terminieren
+4. Projektstart
+
+---
+
+[FIRMA]
+[NAME]
+[ADRESSE]
+[TELEFON]
+[EMAIL]
+[WEBSITE]
+
+Steuer-Nr.: [STEUERNUMMER]
+USt-IdNr.: [WENN VORHANDEN]

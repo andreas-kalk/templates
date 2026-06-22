@@ -1,0 +1,196 @@
+= Projekt-Statusbericht
+:toc: left
+:icons: font
+
+== Projektinformationen
+
+[cols="1,2"]
+|===
+|Projekt |[PROJEKTNAME]
+|Kunde |[FIRMENNAME]
+|Berichtszeitraum |[VON] - [BIS]
+|Berichtsdatum |{docdate}
+|Projektmanager |[IHR NAME]
+|Projektstatus |🟢 Im Plan / 🟡 Verzögerung / 🔴 Kritisch
+|===
+
+== Executive Summary
+
+[KURZE ZUSAMMENFASSUNG DES AKTUELLEN PROJEKTSTATUS IN 2-3 SÄTZEN]
+
+== Fortschritt nach Projektphasen
+
+=== Phase 1: [PHASE NAME]
+* **Status:** ✅ Abgeschlossen / 🔄 In Bearbeitung / ⏳ Geplant
+* **Fortschritt:** [X]% abgeschlossen
+* **Wichtige Meilensteine:**
+  - [MEILENSTEIN 1]: ✅ Erreicht am [DATUM]
+  - [MEILENSTEIN 2]: 🔄 In Bearbeitung (geplant: [DATUM])
+
+=== Phase 2: [PHASE NAME]
+* **Status:** ✅ Abgeschlossen / 🔄 In Bearbeitung / ⏳ Geplant
+* **Fortschritt:** [X]% abgeschlossen
+* **Wichtige Meilensteine:**
+  - [MEILENSTEIN 1]: ⏳ Geplant für [DATUM]
+
+== Erledigte Aufgaben (Berichtszeitraum)
+
+=== Entwicklung
+* [TASK 1] - Frontend-Komponente für User Dashboard
+* [TASK 2] - API-Integration für Datenimport
+* [TASK 3] - Unit Tests für Core-Module
+
+=== Testing & QA
+* [TASK 1] - Integration Tests durchgeführt
+* [TASK 2] - Bug-Fixes für Issues #123, #124, #125
+
+=== Dokumentation
+* [TASK 1] - API-Dokumentation aktualisiert
+* [TASK 2] - Deployment-Guide erstellt
+
+== Geplante Aufgaben (Nächster Zeitraum)
+
+=== Kommende Woche
+* [TASK 1] - Mobile-responsive Design implementieren
+* [TASK 2] - Performance-Optimierung Database Queries
+* [TASK 3] - Security-Audit durchführen
+
+=== Nächste 2 Wochen
+* [TASK 1] - User Acceptance Testing koordinieren
+* [TASK 2] - Production Deployment vorbereiten
+
+== Zeiterfassung
+
+=== Stundenaufwand (Berichtszeitraum)
+[cols="2,1,1"]
+|===
+|Aktivität |Geplant (Std.) |Tatsächlich (Std.)
+
+|Frontend Development
+|[X]
+|[Y]
+
+|Backend Development
+|[X]
+|[Y]
+
+|Testing & QA
+|[X]
+|[Y]
+
+|Projektmanagement
+|[X]
+|[Y]
+
+|**Gesamt**
+|**[GESAMT_GEPLANT]**
+|**[GESAMT_TATSÄCHLICH]**
+|===
+
+=== Kumulierte Stunden
+* **Gesamtstunden Projekt:** [X] von [Y] geplanten Stunden
+* **Verbrauchte Budget:** [X]% von Gesamtbudget
+
+== Risiken und Issues
+
+=== 🔴 Kritische Issues
+* **Issue #1:** [BESCHREIBUNG]
+  - **Impact:** [AUSWIRKUNG]
+  - **Maßnahmen:** [LÖSUNGSANSATZ]
+  - **Verantwortlich:** [PERSON]
+  - **Deadline:** [DATUM]
+
+=== 🟡 Mittlere Risiken
+* **Risiko #1:** [BESCHREIBUNG]
+  - **Wahrscheinlichkeit:** Mittel
+  - **Mitigation:** [PRÄVENTIVE MAßNAHMEN]
+
+=== ✅ Gelöste Issues
+* **Issue #X:** [BESCHREIBUNG] - Gelöst am [DATUM]
+
+== Budget und Kosten
+
+[cols="2,1,1,1"]
+|===
+|Kategorie |Budget |Verbraucht |Verbleibend
+
+|Entwicklung
+|[BUDGET] €
+|[VERBRAUCHT] €
+|[REST] €
+
+|Testing
+|[BUDGET] €
+|[VERBRAUCHT] €
+|[REST] €
+
+|**Gesamt**
+|**[GESAMTBUDGET] €**
+|**[GESAMTVERBRAUCHT] €**
+|**[GESAMTREST] €**
+|===
+
+**Budget-Status:** 🟢 Im Rahmen / 🟡 Knapp / 🔴 Überschritten
+
+== Qualitätsmetriken
+
+=== Code Quality
+* **Test Coverage:** [X]%
+* **Code Review:** [X] von [Y] PRs reviewed
+* **Bug Rate:** [X] Bugs pro 1000 LOC
+* **Performance:** [RESPONSE TIMES, LOAD METRICS]
+
+=== Projektmetriken
+* **Scope Changes:** [ANZAHL] Änderungsanträge
+* **Feature Completion:** [X] von [Y] Features abgeschlossen
+* **Customer Satisfaction:** [RATING/FEEDBACK]
+
+== Kommunikation und Meetings
+
+=== Durchgeführte Meetings
+* [DATUM]: Daily Standup (Team)
+* [DATUM]: Sprint Review mit Kunde
+* [DATUM]: Architecture Review
+
+=== Geplante Meetings
+* [DATUM]: Sprint Planning
+* [DATUM]: Customer Demo
+* [DATUM]: Go-Live Preparation
+
+== Nächste Schritte
+
+=== Kurzfristig (1-2 Wochen)
+1. [PRIORITÄT 1 AUFGABE]
+2. [PRIORITÄT 2 AUFGABE]
+3. [PRIORITÄT 3 AUFGABE]
+
+=== Mittelfristig (1 Monat)
+1. [STRATEGISCHE AUFGABE 1]
+2. [STRATEGISCHE AUFGABE 2]
+
+=== Entscheidungen erforderlich
+* **Entscheidung #1:** [BESCHREIBUNG]
+  - **Optionen:** [OPTION A / OPTION B]
+  - **Empfehlung:** [IHRE EMPFEHLUNG]
+  - **Deadline:** [DATUM]
+
+== Anhänge
+
+* Link zu Projektboard: [URL]
+* Code Repository: [URL]
+* Dokumentation: [URL]
+* Test Reports: [URL]
+
+---
+
+**Erstellt von:** [IHR NAME]
+**Nächster Bericht:** [DATUM]
+
+[TIP]
+====
+**Für den Kunden:** Bei Fragen oder Anmerkungen zu diesem Bericht können Sie mich jederzeit kontaktieren:
+
+📧 [EMAIL]
+📞 [TELEFON]
+💬 [SLACK/TEAMS CHANNEL]
+====

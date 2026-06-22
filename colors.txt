@@ -1,0 +1,10 @@
+E8F1F2		Alice Blue
+161925		Raisin Black
+F1D302		School bus yellow
+C1292E		Fire engine red
+235789		Lapis Lazuli
+5DA9E9		Argentina Blue
+0CCE6B		Emarald
+59C3C3		Robin egg blue
+7FB7BE		Moonstone
+258EA6		Blue (Munsell)

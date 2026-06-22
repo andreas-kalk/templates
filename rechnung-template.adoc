@@ -1,0 +1,131 @@
+= Rechnung Nr. [RECHNUNGSNUMMER]
+:icons: font
+
+== Rechnungsdetails
+
+[cols="1,2"]
+|===
+|Rechnungsnummer |[RECHNUNGSNUMMER]
+|Rechnungsdatum |{docdate}
+|Leistungszeitraum |[VON] - [BIS]
+|Fälligkeitsdatum |[DATUM + 14 TAGE]
+|Kundennummer |[KUNDENNUMMER]
+|===
+
+== Rechnungsempfänger
+
+[FIRMENNAME]
+[ADRESSE]
+[PLZ ORT]
+
+**Ansprechpartner:** [NAME]
+
+== Rechnungssteller
+
+[IHR NAME]
+[IHRE ADRESSE]
+[PLZ ORT]
+
+**Kontakt:**
+Telefon: [TELEFON]
+E-Mail: [EMAIL]
+Website: [WEBSITE]
+
+**Steuerliche Angaben:**
+Steuer-Nr.: [STEUERNUMMER]
+USt-IdNr.: [WENN VORHANDEN]
+
+== Leistungsnachweis
+
+**Projekt:** [PROJEKTNAME]
+**Projektbeschreibung:** [KURZE BESCHREIBUNG]
+
+=== Stundenaufstellung
+
+[cols="1,3,1,1,1"]
+|===
+|Datum |Tätigkeit |Stunden |Stundensatz |Betrag
+
+|[DATUM]
+|[DETAILLIERTE BESCHREIBUNG DER TÄTIGKEIT]
+|[X,X]
+|[SATZ] €
+|[BETRAG] €
+
+|[DATUM]
+|[DETAILLIERTE BESCHREIBUNG DER TÄTIGKEIT]
+|[X,X]
+|[SATZ] €
+|[BETRAG] €
+
+|[DATUM]
+|[DETAILLIERTE BESCHREIBUNG DER TÄTIGKEIT]
+|[X,X]
+|[SATZ] €
+|[BETRAG] €
+
+|===
+
+**Gesamtstunden:** [SUMME] Stunden
+
+== Rechnungssumme
+
+[cols="2,1,1"]
+|===
+|Position |Menge |Betrag
+
+|IT-Dienstleistungen (Stundensatz: [SATZ] €)
+|[STUNDEN] Std.
+|[NETTOBETRAG] €
+
+|**Zwischensumme netto**
+|
+|**[NETTOBETRAG] €**
+
+|Umsatzsteuer (19%)
+|
+|[MWST] €
+
+|**Rechnungsbetrag**
+|
+|**[BRUTTOBETRAG] €**
+|===
+
+== Zahlungskonditionen
+
+* **Zahlungsziel:** 14 Tage netto
+* **Zahlungsart:** Überweisung
+* **Bei Zahlungsverzug** werden Verzugszinsen in Höhe von 9% über dem Basiszinssatz berechnet
+
+== Bankverbindung
+
+**Bank:** [BANKNAME]
+**IBAN:** [IBAN]
+**BIC:** [BIC]
+**Verwendungszweck:** Rechnung [RECHNUNGSNUMMER]
+
+== Hinweise
+
+[NOTE]
+====
+**Aufbewahrungspflicht:** Diese Rechnung ist als Beleg für steuerliche Zwecke 10 Jahre aufzubewahren.
+
+**Reverse Charge:** Falls zutreffend - Bei innergemeinschaftlichen Lieferungen ist der Leistungsempfänger zur Abführung der Umsatzsteuer verpflichtet.
+====
+
+**Vielen Dank für Ihr Vertrauen!**
+
+---
+
+[IHR NAME]
+[DATUM]
+
+[CAUTION]
+====
+**Wichtige Hinweise zur Rechnungsstellung:**
+
+* Fortlaufende Rechnungsnummern verwenden
+* Alle Pflichtangaben nach § 14 UStG beachten
+* Bei EU-Geschäften USt-IdNr. des Kunden angeben
+* Kleinunternehmerregelung beachten (wenn zutreffend)
+====

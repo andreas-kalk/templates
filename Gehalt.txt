@@ -1,0 +1,75 @@
+🔍 Ausgangslage & Entwicklung
+Du hast dich seit deinem Einstieg 2020 deutlich weiterentwickelt:
+
+Technische Expertise: Know-how-Träger im Bereich Security, insbesondere OAuth 2.0.
+Führungsverantwortung: Dev-Lead im Team, fachliche Führung großer Themen (>150 PT).
+Weiterbildung zur Führungskraft: Geplant bis Ende 2025.
+Vertragsentwicklung: Gehalt von 5166 → 5666 → 6000 €, Tantieme von 1000 → 3000 €, Urlaub von 30 Tagen + 10 Sonderurlaub (zeitlich begrenzt), Kündigungsfrist verschärft.
+✅ Realistische Forderungen für 2025
+Hier eine mögliche Verhandlungsstrategie mit realistischen Forderungen:
+
+💰 Gehalt
+Ziel: Erhöhung auf 6500–6800 € Fixgehalt monatlich.
+Begründung:
+Übernahme von fachlicher Führungsverantwortung.
+Security-Know-how ist unternehmenskritisch.
+Marktübliche Gehälter für vergleichbare Rollen liegen oft höher (kann mit Benchmarks untermauert werden).
+Kündigungsfrist wurde verlängert – Bindung ans Unternehmen erhöht.
+🎯 Tantieme
+Ziel: Beibehaltung oder Erhöhung auf 4000 €.
+Begründung: Du trägst maßgeblich zur Umsetzung strategischer Themen bei.
+🏖️ Urlaub
+Ziel: 40 Tage Urlaub fix im Vertrag, ohne zeitliche Begrenzung.
+Begründung:
+Die 10 Sonderurlaubstage laufen aus – du möchtest eine dauerhafte Lösung.
+Du übernimmst Führungsverantwortung und brauchst Ausgleich.
+Urlaub ist ein starkes Bindungsinstrument – kein direkter Kostenfaktor.
+🧠 Gute Argumente
+Fachliche Führungsrolle: Du leitest große Themen und trägst Verantwortung für andere Entwickler.
+Security-Kompetenz: Du bist Know-how-Träger in einem kritischen Bereich.
+Marktvergleich: Vergleichbare Rollen in Bremen oder deutschlandweit liegen oft höher.
+Vertragsbindung: Du hast dich durch die verlängerte Kündigungsfrist bereits stärker ans Unternehmen gebunden.
+Zukunftsperspektive: Du investierst in Weiterbildung zur Führungskraft – das Unternehmen profitiert langfristig.
+⚠️ Mögliche Gegenargumente & Reaktionen
+Gegenargument	Mögliche Reaktion
+„Es gibt eine 0-Runde für 2025.“	„Ich verstehe die wirtschaftliche Lage. Dennoch sollten individuelle Leistungen und Verantwortung berücksichtigt werden – z. B. durch Urlaub oder Tantieme.“
+„Das Gehaltsband lässt keine Erhöhung zu.“	„Dann wäre eine Anpassung der Urlaubstage oder Tantieme eine gute Alternative. Ich bin offen für kreative Lösungen.“
+„Andere im Team verdienen weniger.“	„Ich übernehme eine besondere Rolle mit fachlicher Führung und Security-Verantwortung. Das sollte sich auch im Gehalt widerspiegeln.“
+„Wir müssen fair gegenüber allen Mitarbeitenden bleiben.“	„Fairness bedeutet auch, individuelle Leistungen und Verantwortung angemessen zu honorieren.“
+📌 Vorschlag für deine Verhandlungsformulierung
+„Ich möchte über meine Weiterentwicklung sprechen – fachlich wie auch in meiner Rolle als Dev-Lead. Ich übernehme Verantwortung für große Themen und bin Know-how-Träger im Bereich Security. Daher halte ich eine Anpassung meines Gehalts auf 6600 € sowie eine dauerhafte Regelung von 40 Urlaubstagen für angemessen. Ich bin offen für eine ausgewogene Lösung, z. B. über Tantieme oder andere Benefits.“
+
+💼 Softwareentwickler mit Führungsverantwortung (Deutschlandweit)
+Laut kununu liegt das durchschnittliche Jahresgehalt bei:
+
+Ohne Führungsverantwortung: ca. 62.050 €
+Mit Führungsverantwortung: ca. 65.700 €
+kununu
+Nach 10 Jahren Berufserfahrung: bis zu 72.400 € jährlich (ca. 6.033 € monatlich)
+kununu
+🧠 Lead Developer (Deutschlandweit)
+Laut StepStone liegt das Durchschnittsgehalt bei:
+
+67.100 € jährlich (ca. 5.591 € monatlich) – mit einer Spanne von 59.800 € bis 80.300 €
+In Bremen: ca. 69.500 € jährlich (ca. 5.791 € monatlich) – mit einer Spanne von 60.600 € bis 81.400 €
+stepstone
+🔐 Security-Spezialisierung
+Zwar gibt es keine exakte Zahl für „Softwareentwickler mit Security-Schwerpunkt“, aber:
+
+Security Engineers verdienen im Schnitt 77.125 € jährlich
+kununu
+Das ist deutlich über dem allgemeinen Entwickler-Durchschnitt und zeigt, dass Security-Know-how stark honoriert wird.
+📊 Dein aktuelles Gehalt im Vergleich
+Du verdienst aktuell:
+
+72.000 € Fixgehalt jährlich (6000 € monatlich)
++ 3000 € Tantieme → Gesamt: 75.000 € jährlich
+Das liegt leicht über dem Durchschnitt für Dev-Leads in Bremen, aber unter dem Durchschnitt für Security Engineers und unter dem oberen Bereich für Lead Developer mit 10+ Jahren Erfahrung.
+
+🎯 Empfehlung für deine Forderung
+Basierend auf den Daten wäre eine realistische und gut begründbare Forderung:
+
+Fixgehalt: 6600–6800 € monatlich (ca. 79.200–81.600 € jährlich)
+Tantieme: 4000–5000 €
+Urlaub: 40 Tage fix im Vertrag
+Damit würdest du dich im oberen Drittel der Gehaltsspanne für deine Rolle und Region bewegen – gerechtfertigt durch deine Security-Expertise und Führungsverantwortung.

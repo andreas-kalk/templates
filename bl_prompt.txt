@@ -1,0 +1,51 @@
+Erstelle eine moderne react app mit typescript vite und tailwind css.
+
+Die app soll sich an alle aktuellen UX design pattern und Anforderungen halten.
+Die App soll die OWASP Top 10 berücksichtigen.
+Die App soll intuitiv, übersichtlich und leicht zu bedienen sein.
+
+Als Backend wird später Java Spring Boot verwendet.
+Zunächst soll mit Beispieldaten gearbeitet werden, die leicht durch die API Anbindung ausgetauscht werden können.
+
+Anforderungen:
+Mit der APP soll es Möglich sein einen Lego Bricklink / BrickOWL Store zu managen.
+Hauptaufgaben sind das einstellen von neuen Lego-Teilen in den Shop, Verwalten und kommissionieren von Bestellungen und Versandmanagement.
+
+1. Mit der App soll das "Outparten" von Lego-Sets vereinfacht werden.
+Outparten bedeutet alle Teile /Figuren und Anleitung eines kompletten Sets als einzelne Produkte in den Store zu laden.
+
+Vorgehen:
+Die Steine werden sortiert nach Farbe und Typ. 
+Die sortierten Steine werden hierbei in nummerierte Boxen sortiert. 
+Beim sortieren soll die Boxnummer bereits einem Teil/Typ zugeordnet werden können
+Die Boxnummer soll für diesen Vorgang gespeichert werden, damit über mehrere Tagen ein komplettes Set sortiert werden kann.
+Es kommt vor das bereist Teile vom gleichen Typ/Farbe im Store vorhanden sind. 
+Über die Bricklink API / BrickOWL API soll vor dem Partout für alle Teile des Sets ermittelt werden, ob sie bereits im Store vorhanden sind und in welcher nummerierten Box wieviele Teile vorhanden sind.
+Die neuen Teile werden dann in diese Boxen hinzugefügt
+Die Teile die bereits im Store vorhanden sind müssen in irgendeiner Form auffällig sein.
+Der ganze Vorgang soll nach nach Prüfung abgeschlossen werden können.
+Erst nach dediziertem Abschluss werden die Teile in den Store gespeichert.
+
+2. Manuell Steine sortieren
+
+Vorgehen:
+Eine lose Steinsammlung wird vorsortiert und ähnlich wie beim outparten in nummerierte Boxen sortiert.
+Die Steine werden für eine komplette Kategorie sortiert. 
+Es werden z.B. von einer Kategorie gleichzeitig 4 verschiedene Farben in die Boxen sortiert.
+Es muss Möglich sein für einen Steinetyp alle Farben gleichzeitig zu pflegen.
+Die Steine werden über eine Teilenummer oder Kategorien gesucht.
+Die Suche erfolgt über eine API Anbindung zu rebrickable. (Im Backend später)
+Von rebrickable erfolgt die Auflösung zu den spezifischen Teilenummern von Bricklink / BrickOWL
+Die sortierten Steine sollen in einer Art Warenkorb zwischengespeichert werden.
+Erst über einen Button sollen alle im "Warenkorb" gesammelten Teile in den Store geladen werden um Requests gegen die API zu reduzieren.
+
+3. Bestellungen kommissionieren
+
+Vorgehen:
+Es werden mehrere Bestellungen zeitgleich kommissioniert
+Es soll eine Gesamliste mit den zu packenden Teilen geben
+Die Liste soll nach Boxnummer aufsteigend sortiert sein. 
+Teile ohne Boxnummer werden am Ende der Liste angezeigt
+Für jedes Teil muss die Farbe, Menge, Restmenge, Box (falls vorhanden) und Bestellung für die diese Position ist erkennbar sein
+
+Alles weitere kommt später

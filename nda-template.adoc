@@ -1,0 +1,129 @@
+= Geheimhaltungsvereinbarung (NDA)
+:icons: font
+
+== Vertragsparteien
+
+**Partei 1 (Offenlegende Partei):**
+[FIRMENNAME]
+[ADRESSE]
+vertreten durch: [GESCHÄFTSFÜHRER]
+
+**Partei 2 (Empfangende Partei):**
+[IHR NAME]
+[IHRE ADRESSE]
+[TELEFON]
+[EMAIL]
+
+== § 1 Zweck der Vereinbarung
+
+Die Parteien beabsichtigen Gespräche über eine mögliche Geschäftsbeziehung bezüglich "[PROJEKTBESCHREIBUNG]" zu führen. Im Rahmen dieser Gespräche können vertrauliche Informationen ausgetauscht werden.
+
+== § 2 Definition vertraulicher Informationen
+
+Vertrauliche Informationen im Sinne dieser Vereinbarung sind alle Informationen, die:
+
+* Als "vertraulich", "geheim" oder ähnlich gekennzeichnet sind
+* Geschäfts- oder Betriebsgeheimnisse darstellen
+* Technische Daten, Know-how, Verfahren oder Methoden betreffen
+* Kunden-, Lieferanten- oder Partnerdaten enthalten
+* Finanzielle Informationen beinhalten
+* Strategische Planungen oder Geschäftsmodelle umfassen
+
+**Ausgenommen** sind Informationen, die:
+* Allgemein bekannt oder öffentlich zugänglich sind
+* Rechtmäßig von Dritten erhalten wurden
+* Bereits vor Offenlegung bekannt waren
+* Unabhängig entwickelt wurden
+
+== § 3 Verpflichtungen der empfangenden Partei
+
+Die empfangende Partei verpflichtet sich:
+
+=== 3.1 Geheimhaltung
+* Vertrauliche Informationen streng geheim zu halten
+* Diese nicht an Dritte weiterzugeben
+* Diese nur für den vereinbarten Zweck zu verwenden
+
+=== 3.2 Schutzmaßnahmen
+* Angemessene Sicherheitsmaßnahmen zu treffen
+* Mindestens die gleiche Sorgfalt wie bei eigenen vertraulichen Informationen anzuwenden
+* Zugang nur berechtigten Mitarbeitern zu gewähren
+
+=== 3.3 Dokumentation
+* Alle erhaltenen Unterlagen sicher aufzubewahren
+* Kopien nur mit ausdrücklicher Genehmigung anzufertigen
+
+== § 4 Weitergabe an Mitarbeiter
+
+=== 4.1 Berechtigung
+Die Weitergabe an eigene Mitarbeiter ist nur zulässig, wenn:
+* Ein berechtigtes Interesse besteht
+* Der Mitarbeiter zur Verschwiegenheit verpflichtet wurde
+* Die offenlegende Partei vorab informiert wurde
+
+=== 4.2 Haftung
+Die empfangende Partei haftet für Verstöße ihrer Mitarbeiter wie für eigene.
+
+== § 5 Rückgabe von Informationen
+
+Bei Beendigung der Gespräche oder auf Verlangen sind:
+* Alle Unterlagen zurückzugeben oder zu vernichten
+* Digitale Kopien zu löschen
+* Eine schriftliche Bestätigung über die Vernichtung vorzulegen
+
+== § 6 Keine Rechteeinräumung
+
+=== 6.1 Kein Lizenzvertrag
+Diese Vereinbarung begründet keine Lizenzen oder sonstigen Rechte an geistigem Eigentum.
+
+=== 6.2 Kein Geschäftsabschluss
+Die Offenlegung von Informationen verpflichtet nicht zum Abschluss eines Geschäfts.
+
+== § 7 Vertragsdauer
+
+=== 7.1 Laufzeit
+Diese Vereinbarung gilt ab Unterzeichnung für **[X] Jahre**.
+
+=== 7.2 Nachwirkung
+Die Verpflichtungen bestehen auch nach Vertragsende fort.
+
+== § 8 Vertragsstrafe und Schadensersatz
+
+=== 8.1 Vertragsstrafe
+Bei schuldhafter Verletzung der Geheimhaltungspflicht wird eine Vertragsstrafe von **[BETRAG] Euro** fällig.
+
+=== 8.2 Schadensersatz
+Weitergehende Schadensersatzansprüche bleiben unberührt.
+
+== § 9 Ausnahmen
+
+Die Geheimhaltungspflicht entfällt, wenn:
+* Eine gesetzliche Offenlegungspflicht besteht
+* Eine gerichtliche Anordnung vorliegt
+* Die offenlegende Partei schriftlich zustimmt
+
+== § 10 Schlussbestimmungen
+
+=== 10.1 Schriftform
+Änderungen bedürfen der Schriftform.
+
+=== 10.2 Salvatorische Klausel
+Unwirksamkeit einzelner Bestimmungen lässt den übrigen Vertrag unberührt.
+
+=== 10.3 Gerichtsstand und Recht
+* Gerichtsstand: [ORT]
+* Anwendbares Recht: Deutsches Recht
+
+---
+
+**Ort, Datum:** _________________
+
+**Partei 1:** _________________
+
+**Partei 2:** _________________
+
+[IMPORTANT]
+====
+**Rechtlicher Hinweis:** 
+Diese Vorlage ersetzt keine individuelle Rechtsberatung. Lassen Sie NDAs vor Verwendung von einem Anwalt prüfen, insbesondere bei internationalen Geschäftsbeziehungen.
+====
