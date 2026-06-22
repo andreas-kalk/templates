@@ -1,0 +1,73 @@
+Obsero Gateway					API Gateway mit Security Layer
+Obsero Identity					IAM-Integration (Keycloak, EntraID)
+Obsero Authorize				PDP-Client, Lizenz- und Feature-Client
+Obsero Policy Engine			PDP (z. B. SpiceDB, OpenFGA, Cedar)
+Obsero Policy Engine | Spice 
+Obsero Policy Engine | OpenFGA
+Obsero Policy Engine | Cedar
+Obsero License Hub				Lizenzmanagement & externe Anbindung
+Obsero Rule Desk				UI für Policy-Konfiguration
+Obsero Translate				Übersetzung von Policies in UI-Formate
+Obsero Translate | Spice 
+Obsero Translate | OpenFGA
+Obsero Translate | Cedar
+Obsero Insights (optional)		Logging, Auditing, Monitoring
+
+Toogle Vendors
+* Launch Darkly
+* split
+* VWO
+* CloudBees
+* Optimizely
+* Unleah
+* Gitlab
+
+default:development.2176dc85c6e3859583c96c8d78e99e12c88f1c7c2c9d252c85c7f419
+
+
+
+🗺️ Obsero Produkt-Roadmap
+Phase 1: Foundation & Core Services (Q4 2025 – Q1 2026)
+Ziel: Aufbau der Kernkomponenten und erste interne Integration
+
+✅ Obsero Gateway – API-Gateway mit Basis-Auth
+✅ Obsero IAM – Integration mit Keycloak / EntraID
+✅ Obsero PDP – SpiceDB / OpenFGA Anbindung
+✅ Obsero License – Anbindung an LicenseSpring
+✅ Obsero Toggle – Togglz / Unleash Integration
+🔄 Obsero SDK – erste Version für Java / Node.js
+
+
+Phase 2: UI & Konfiguration (Q2 2026)
+Ziel: Benutzerfreundliche Verwaltung und Regelpflege
+
+🆕 Obsero PAP UI – visuelle Policy-Konfiguration
+🆕 Obsero RuleStudio – Regelübersetzung & Mapping
+🆕 Obsero Config API – zentrale Konfigurationsschnittstelle
+🔄 Obsero SDK – Erweiterung für Python / .NET
+
+
+Phase 3: Monitoring & Insights (Q3 2026)
+Ziel: Transparenz, Auditing und Reporting
+
+🆕 Obsero Insights – Dashboard für Zugriffsentscheidungen
+🆕 Obsero AuditTrail – Logging & Compliance-Modul
+🆕 Obsero Metrics API – Schnittstelle für externe BI-Tools
+
+
+Phase 4: Enterprise Features & Skalierung (Q4 2026 – Q1 2027)
+Ziel: Skalierbarkeit, Mandantenfähigkeit, Cloud-Integration
+
+🆕 Obsero Cloud – SaaS-Variante mit Mandantenfähigkeit
+🆕 Obsero Edge – dezentrale Architektur für Edge-Computing
+🆕 Obsero Connectors – Integrationen für ERP, CRM, etc.
+🆕 Obsero Enterprise Suite – gebündelte Lösung für Großkunden
+
+
+📌 Optional: Marketing & Branding
+Parallel zur technischen Roadmap:
+
+🎨 Logo-Varianten (Security / Tech / Seriös)
+🗣️ Claim & Messaging („Secure decisions. Smart control.“)
+🌐 Website & Landingpages
+📄 Whitepaper & Produktbroschüre
